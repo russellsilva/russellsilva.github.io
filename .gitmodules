@@ -1,0 +1,3 @@
+[submodule "riftwiz"]
+	path = riftwiz
+	url = https://github.com/russellsilva/riftwiz
